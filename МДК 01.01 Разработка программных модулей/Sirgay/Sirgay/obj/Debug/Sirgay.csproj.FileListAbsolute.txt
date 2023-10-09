@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\bin\Debug\Sirgay.exe.config
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\bin\Debug\Sirgay.exe
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\bin\Debug\Sirgay.pdb
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.g.resources
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.exe
+C:\Users\Администратор\source\repos\Sirgay\Sirgay\obj\Debug\Sirgay.pdb
