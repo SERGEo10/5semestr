@@ -1,6 +1,6 @@
 https://docs.google.com/spreadsheets/d/1zCAIBaKaXQ5JHkJ4YRRmjNow75gfRe6Qb5TEkUkz9X8/edit?usp=sharing
 
-https://replit.com/@SERGEo10/chislienyie-mietody#main.py
+[https://replit.com/@SERGEo10/chislienyie-mietody#main.py](https://replit.com/@SERGEo10/chisliennyie-mietody#main.py)
 
 https://docs.google.com/spreadsheets/d/1nCUdNaAMOoSj3OrGg0I1CR2hDyCXPtTp24lArX321BQ/edit?usp=sharing
 
